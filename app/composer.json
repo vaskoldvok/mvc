@@ -1,0 +1,7 @@
+{
+    "name": "mvc/frame",
+    "require": {},
+    "autoload": {
+        "psr-4": {"Frame\\": "frame/"}
+    }
+}
